@@ -1,0 +1,5 @@
+Task : 
+function bt call el API W EL DATA HTRG3 FE CALLBACK function
+use this function in the route
+pass the data in the response to the view
+in the view , show all the data
