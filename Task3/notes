@@ -1,0 +1,2 @@
+customer => id , name , balance 
+command => add customer , edit balance
